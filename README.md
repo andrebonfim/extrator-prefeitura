@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Extrator de Metadados de Documentos (.docx)
 
 Este projeto automatiza a extração de metadados de documentos Word (.docx), convertendo informações brutas em planilhas Excel organizadas. O objetivo é facilitar a conferência de autoria e títulos em grandes volumes de arquivos dentro de órgãos públicos ou empresas.
